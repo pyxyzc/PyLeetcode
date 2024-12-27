@@ -73,15 +73,15 @@ CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o: CMakeFiles/dfs_79.dir/flags.make
 CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o: /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp
 CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o: CMakeFiles/dfs_79.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o -MF CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o.d -o CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o -c /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o -MF CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o.d -o CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o -c /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp
 
 CMakeFiles/dfs_79.dir/src/dfs/79.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dfs_79.dir/src/dfs/79.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp > CMakeFiles/dfs_79.dir/src/dfs/79.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp > CMakeFiles/dfs_79.dir/src/dfs/79.cpp.i
 
 CMakeFiles/dfs_79.dir/src/dfs/79.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dfs_79.dir/src/dfs/79.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp -o CMakeFiles/dfs_79.dir/src/dfs/79.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pengyao/CppProjects/py_leetcode/src/dfs/79.cpp -o CMakeFiles/dfs_79.dir/src/dfs/79.cpp.s
 
 # Object files for target dfs_79
 dfs_79_OBJECTS = \

@@ -1,0 +1,51 @@
+# Ignore build directory
+/build/
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Ignore compiled object files
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+
+# Ignore compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore user-specific files
+*.user
+*.vcxproj.user
+*.idea/
+*.vscode/
+
+# Ignore dependency files
+*.d
+*.dep
+
+# Ignore generated documentation
+/docs/html/
+/docs/latex/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

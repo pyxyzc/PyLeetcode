@@ -73,15 +73,15 @@ CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o: CMakeFiles/prefix_560.dir/flags.
 CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o: /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp
 CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o: CMakeFiles/prefix_560.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o -MF CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o.d -o CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o -c /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o -MF CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o.d -o CMakeFiles/prefix_560.dir/src/prefix/560.cpp.o -c /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp
 
 CMakeFiles/prefix_560.dir/src/prefix/560.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/prefix_560.dir/src/prefix/560.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp > CMakeFiles/prefix_560.dir/src/prefix/560.cpp.i
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp > CMakeFiles/prefix_560.dir/src/prefix/560.cpp.i
 
 CMakeFiles/prefix_560.dir/src/prefix/560.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/prefix_560.dir/src/prefix/560.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp -o CMakeFiles/prefix_560.dir/src/prefix/560.cpp.s
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pengyao/CppProjects/py_leetcode/src/prefix/560.cpp -o CMakeFiles/prefix_560.dir/src/prefix/560.cpp.s
 
 # Object files for target prefix_560
 prefix_560_OBJECTS = \

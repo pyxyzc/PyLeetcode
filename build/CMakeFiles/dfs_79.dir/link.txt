@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o -o dfs/dfs_79 
+/usr/bin/clang++ -g CMakeFiles/dfs_79.dir/src/dfs/79.cpp.o -o dfs/dfs_79 
