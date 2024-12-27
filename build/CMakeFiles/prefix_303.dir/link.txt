@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g CMakeFiles/prefix_303.dir/src/prefix/303.cpp.o -o prefix/prefix_303 

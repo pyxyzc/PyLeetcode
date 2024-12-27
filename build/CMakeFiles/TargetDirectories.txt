@@ -1,5 +1,0 @@
-/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles/dfs_79.dir
-/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles/prefix_303.dir
-/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles/prefix_560.dir
-/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles/edit_cache.dir
-/home/pengyao/CppProjects/py_leetcode/build/CMakeFiles/rebuild_cache.dir
