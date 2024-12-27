@@ -22,7 +22,7 @@ foreach(TASK ${TASKS})
 
         # 指定输出目录
         set_target_properties(${TASK}_${FILE_NAME} PROPERTIES
-            RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/build/${TASK}
+            RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/${TASK}
         )
     endforeach()
 endforeach()
