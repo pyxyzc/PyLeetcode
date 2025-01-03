@@ -5,7 +5,7 @@ project(py_leetcode VERSION 0.1.0 LANGUAGES C CXX)
 set(SRC_DIR ${CMAKE_SOURCE_DIR}/src)
 
 # 定义任务子目录
-set(TASKS dfs stack dp prefix huawei)
+set(TASKS dfs stack dp prefix hw)
 
 # 遍历任务目录并配置独立的构建目标
 foreach(TASK ${TASKS})
