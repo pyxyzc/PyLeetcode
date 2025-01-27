@@ -1,2 +1,4 @@
-# pyLeetcode
-py leetcode repo
+# PyLeetcode
+
+Peng Yao 的算法题目仓库。
+
